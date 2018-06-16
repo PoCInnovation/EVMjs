@@ -1,1 +1,1 @@
-# EVMjs project
+# EVMjs PoC project
